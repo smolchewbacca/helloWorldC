@@ -1,5 +1,8 @@
 public class hi{
   public static void main(args[] String){
-     System.out.println("Hi");
+     printHi();
+  }
+  public printHi(){
+    System.out.println("Hello World!");
   }
 }
